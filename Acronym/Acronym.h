@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface Acronym : NSObject
-
++(void)search:(NSString*)acronym result:(void(^)(NSArray *fullForms, NSError *error))block;
 @end
