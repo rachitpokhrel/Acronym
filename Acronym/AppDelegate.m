@@ -1,8 +1,8 @@
 //
 //  AppDelegate.m
-//  Acronym
+//  CoffeeKit
 //
-//  Created by Rachit on 8/28/15.
+//  Created by Rachit on 8/24/15.
 //  Copyright (c) 2015 Rachit. All rights reserved.
 //
 
